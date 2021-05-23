@@ -6,15 +6,7 @@ class script(object):
 """Hey {}
 നീ ഏതാ മോനൂസെ എന്നെ [𝗖𝗜𝗡𝗘𝗠𝗔 𝗖𝗢𝗠𝗣𝗔𝗡𝗬]( https://t.me/cinimacompany123)ഗ്രൂപ്പിലേക്ക് മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
 വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭"""
-
-
-
-
-
-
-
-
-    HELP_MSG = """<b>How to use the bot??</b>
+HELP_MSG = """<b>How to use the bot??</b>
 
 <i>
 * Add bot to your group with admin rights.
@@ -42,7 +34,15 @@ or
 
 * <code>/delall</code>  -  Removes all connected channels and filters from group!
 
-<i>Note : Dont add command delete bots in group! Otherwise, delall command wont work</i>
+<i>Note : Dont add command delete bots in group
+
+
+
+
+
+
+
+    ! Otherwise, delall command wont work</i>
 
 
 * <code>/filterstats</code>  -  Check connected channels and number of filters.
