@@ -7,7 +7,7 @@ from script import script
 async def start(client, message):
     try:
         await message.reply_text(
-            text=script.START_MSG.format(message.from_user.mention),
+            text=script.START_MSG.format(message.from_user.first_name),
             disable_web_page_preview=True,
             parse_mode="md",
             reply_markup=InlineKeyboardMarkup(
@@ -64,6 +64,26 @@ async def about(client, message):
         )
     except:
         pass
+    
+
+
+
+
+
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+        
         
 
 
