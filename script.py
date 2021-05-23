@@ -20,3 +20,4 @@ class script(object):
 
 ⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
 
+"""
