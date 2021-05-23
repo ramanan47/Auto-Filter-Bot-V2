@@ -3,15 +3,10 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+Hey {username}
+നീ ഏതാ മോനൂസെ എന്നെ [𝗖𝗜𝗡𝗘𝗠𝗔 𝗖𝗢𝗠𝗣𝗔𝗡𝗬](https://t.me/cinimacompany123) ഗ്രൂപ്പിലേക്ക് മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
+വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭
 
-This is Version 2 of Auto Filter Bot
-
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
-
-For more click <i>help</i></b>"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
